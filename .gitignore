@@ -1,6 +1,16 @@
 # Compiled class file
 *.class
-
+.classpath
+.project
+*/.project
+*/servers/
+.metadata
+*.metadata
+.settings
+*.settings
+*.idea/
+*.idea/workspace*
+.recommenders
 # Log file
 *.log
 
